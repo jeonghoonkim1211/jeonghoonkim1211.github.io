@@ -9,7 +9,7 @@ exclude:
   - "/vendor/"
 
 # Site settings
-title: AI Concept blog
+title: KJH's AI Concept blog
 subtitle: "a space for everyday learning"
 email: naon710@gmail.com
 name: KIM Jeonghoon
@@ -25,7 +25,7 @@ logo: "/assets/_KINLAB.png"
 
 # Build settings
 markdown: kramdown
-inter_post_navigation: false
+inter_post_navigation: true
 highlightjs_theme: "monokai-sublime"
 
 # Pagination Settings
@@ -56,11 +56,11 @@ jekyll-archives:
 descriptions:
  # - cat: jekyll
   - cat: ML
-    desc: "Posts describing Jekyll setup techniques."
+    desc: "ML things."
 
  # - cat: dummy
   - cat: ANN
-    desc: "Just some placeholder posts, lorem ipsum and the rest."
+    desc: "ANN things."
 
 # Social icons and sharing options
 #
@@ -94,7 +94,7 @@ social:
 
   - name: GitHub
     icon: github
-    username: bencentra
+    username: KIM jeonghoon
     url: https://github.com/jeonghoonkim1211
     desc: Fork me on GitHub
     share: false
@@ -111,7 +111,7 @@ social:
     username: ""
     url: ""
     desc: Add me to your Circles
-    share: true
+    share: false
 
   - name: YouTube
     icon: youtube
