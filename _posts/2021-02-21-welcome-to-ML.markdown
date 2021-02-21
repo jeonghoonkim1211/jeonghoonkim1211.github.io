@@ -12,6 +12,8 @@ cover:  "/assets/instacode.png"
 간단히 만들 수 있는 여타 블로그들을 생각하며 스트레스를 받았지만 만들고 나니 괞찮은듯ㅎ
 
 앞으로는 AI와 관련된 개념이나 아이디어, 코드 등을 올릴 생각이다... 
+![maldivian-widescreen-original-wallpapers-131581](https://user-images.githubusercontent.com/43257397/108626239-84faac80-7492-11eb-9c04-1efffb9f2917.jpg)
+
 
 ## Adding New Posts
 
