@@ -9,7 +9,7 @@ exclude:
   - "/vendor/"
 
 # Site settings
-title: KJH's AI Concept blog
+title: KJH's AI Concept Blog
 subtitle: "a space for everyday learning"
 email: naon710@gmail.com
 name: KIM Jeonghoon
@@ -19,7 +19,7 @@ description: >
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "" # the base hostname & protocol for your site
+url: "https://jeonghoonkim1211.github.io/" # the base hostname & protocol for your site
 cover: "/assets/travel.jpg"
 logo: "/assets/_KINLAB.png"
 
