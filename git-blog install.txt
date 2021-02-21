@@ -26,6 +26,7 @@ git init
 git config --global user.email "you@example.com"
 git add .
 git commit -a
+git remote add origin (자신의 레포지토리 주소).git
 
 
 
