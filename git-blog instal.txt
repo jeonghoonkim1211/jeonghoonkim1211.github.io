@@ -20,5 +20,11 @@ http://127.0.0.1:4000
 #for applying run again
 bundle exec jekyll serve
 
+#git at target folder
+git init
+git config --global user.email "you@example.com"
+git add .
+git commit -a
+
 
 
