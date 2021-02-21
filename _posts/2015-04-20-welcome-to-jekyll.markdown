@@ -1,14 +1,17 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome my blog!"
 date:   2015-04-20 08:43:59
-author: Ben Centra
-categories: Jekyll
-tags:	jekyll welcome
+author: KJH
+categories: ML
+tags:	ML welcome
 cover:  "/assets/instacode.png"
 ---
 
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+기허브에 블로그를 나도 만들어 봐야겠다고 생각한 후 많은 시행착오 끝에 여기까지 왔다. 
+간단히 만들 수 있는 여타 블로그들을 생각하며 스트레스를 받았지만 만들고 나니 괞찮은듯ㅎ
+
+앞으로는 AI와 관련된 개념이나 아이디어, 코드 등을 올릴 생각이다. 
 
 ## Adding New Posts
 
