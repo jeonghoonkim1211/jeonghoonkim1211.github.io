@@ -56,7 +56,6 @@ jekyll-archives:
 descriptions:
  # - cat: jekyll
   - cat: ML
-    #desc: "ML things."
 
  # - cat: dummy
   - cat: ANN
