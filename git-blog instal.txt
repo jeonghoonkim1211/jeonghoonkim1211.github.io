@@ -1,0 +1,24 @@
+# jeonghoonkim1211.github.io
+https://velog.io/@zawook/Github-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EB%A7%8C%EB%93%A4%EA%B8%B0-1
+https://velog.io/@zawook/Github-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EB%A7%8C%EB%93%A4%EA%B8%B0-2
+
+ruby -v
+gem install jekyll bundler
+jekyll -v
+
+
+#add in Gemfile 
+gem "kramdown-parser-gfm"
+bundle install
+bundle exec jekyll serve
+
+#web browser
+http://127.0.0.1:4000
+
+#edit _config.yml
+
+#for applying run again
+bundle exec jekyll serve
+
+
+
