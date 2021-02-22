@@ -3,7 +3,7 @@ layout: post
 title:  "Welcome my blog!"
 date:   2021-02-21 20:06:59
 author: KJH
-categories: ML
+categories: Machine learning
 tags:	ML welcome
 #cover:  "/assets/instacode.png"
 #cover:  ![maldivian-widescreen-original-wallpapers-131581](https://user-images.githubusercontent.com/43257397/108626239-84faac80-7492-11eb-9c04-1efffb9f2917.jpg)
