@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome my blog!"
+title:  "Welcome to ML!"
 date:   2021-02-21 20:06:59
 author: KJH
 categories: Machine_learning
