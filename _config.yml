@@ -1,12 +1,6 @@
 # External plugins
 # See http://ixti.net/software/2013/01/28/using-jekyll-plugins-on-github-pages.html for making `jekyll archives` work.
-# Analytics
-analytics:
-  provider               : "google-gtag" 
-                          # false (default), "google", "google-universal", "google-gtag", "custom"
-  google:
-    tracking_id          : "G-QHPYP5ZW7B"
-    anonymize_ip         : # true, false (default)
+
 
 plugins:
   - jekyll-archives # Sorry, not GitHub pages friendly!
@@ -53,6 +47,15 @@ jekyll-archives:
   permalinks:
     category: '/category/:name/'
     tag: '/tag/:name/'
+
+# Analytics
+analytics:
+  provider               : "google-gtag" 
+                          # false (default), "google", "google-universal", "google-gtag", "custom"
+  google:
+    tracking_id          : "G-QHPYP5ZW7B"
+    anonymize_ip         : # true, false (default)
+
 
 # Disqus comments
 # disqus_shortname: bencentra
