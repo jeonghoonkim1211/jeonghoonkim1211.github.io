@@ -18,8 +18,6 @@ Here's a [demo](http://bencentra.com/centrarium). It also works on [GitHub Pages
 Inspired by dirkfabisch's [Mediator](https://github.com/dirkfabisch/mediator) theme, which I previously used for my own blog, as well as [Type Theme](http://rohanchandra.github.io/type-theme/).
 
 Cover image by Chris M. Morris ([flickr][cover]).
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fjeonghoonkim1211.github.io%2Fposts%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
 
 ---
 layout: page
