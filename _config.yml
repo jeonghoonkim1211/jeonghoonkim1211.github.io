@@ -14,6 +14,7 @@ analytics:
                           # false (default), "google", "google-universal", "google-gtag", "custom"
   google:
     tracking_id          : "G-QHPYP5ZW7B"
+    ga_tracking_id          : "G-QHPYP5ZW7B"
     anonymize_ip         : # true, false (default)
 
 plugins:
