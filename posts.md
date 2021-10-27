@@ -18,6 +18,7 @@ Here's a [demo](http://bencentra.com/centrarium). It also works on [GitHub Pages
 Inspired by dirkfabisch's [Mediator](https://github.com/dirkfabisch/mediator) theme, which I previously used for my own blog, as well as [Type Theme](http://rohanchandra.github.io/type-theme/).
 
 Cover image by Chris M. Morris ([flickr][cover]).
+
 ---
 layout: page
 title: "Posts"
