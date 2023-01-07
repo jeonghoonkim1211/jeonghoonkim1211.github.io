@@ -106,8 +106,7 @@ social:
   - name: GitHub
     icon: github
     username: KIM jeonghoon
-    url: https://jeonghoonkim1211.github.io/
-    #https://github.com/jeonghoonkim1211          
+    url: https://github.com/jeonghoonkim1211          
     desc: Fork me on GitHub
     share: false
 
